@@ -1,0 +1,28 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "jerome.oflaherty@gmail.com",
+    "longName": "TechmemeWatch",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "TechmemeWatch",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "6f56525e-4fb3-4bac-ac6f-dbdc7b46af3f",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
